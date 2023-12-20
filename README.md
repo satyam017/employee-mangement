@@ -39,9 +39,25 @@
             -Status
     -Attendance
 
+# Training and Development
+    - Training Needs Assessment
 
+# Project
+    - Project Details
+        - Project Name
+        - Project Costing
+        - Project Description
+        - Employees list working in the project  
 
+# Employee Feedback
+    - Feedback Forms
 
+# Multiple User Dashboard 
+    - Admin Dashboard (can access and manipulate all the features and data)
+    - Hr Dashboard (with all the access of functionalities working HR)
+    - Manager Dashboard (with all the access of functionalities working Managers)
+    - Employee Dashboard (with all the access of functionalities working Employee)
 
-
-
+# Performance Management 
+    - Goal Setting
+    - Performance Reviews
